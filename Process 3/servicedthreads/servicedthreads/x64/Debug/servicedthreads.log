@@ -1,0 +1,7 @@
+﻿  servicedthreads.cpp
+C:\Users\Tertan41k\Desktop\Process 3\servicedthreads\servicedthreads\servicedthreads.cpp(13,17): warning C4311: приведение типов: усечение указателя из "LPVOID" в "int"
+C:\Users\Tertan41k\Desktop\Process 3\servicedthreads\servicedthreads\servicedthreads.cpp(13,17): warning C4302: приведение типов: усечение из "LPVOID" к "int"
+C:\Users\Tertan41k\Desktop\Process 3\servicedthreads\servicedthreads\servicedthreads.cpp(33,17): warning C4311: приведение типов: усечение указателя из "LPVOID" в "int"
+C:\Users\Tertan41k\Desktop\Process 3\servicedthreads\servicedthreads\servicedthreads.cpp(33,17): warning C4302: приведение типов: усечение из "LPVOID" к "int"
+C:\Users\Tertan41k\Desktop\Process 3\servicedthreads\servicedthreads\servicedthreads.cpp(53,5): warning C4551: в вызове функции отсутствует список аргументов
+  servicedthreads.vcxproj -> C:\Users\Tertan41k\Desktop\Process 3\servicedthreads\x64\Debug\servicedthreads.exe
