@@ -1,0 +1,12 @@
+﻿  servicethread.cpp
+C:\Users\st310-06\Desktop\ServiceThreads-main\Process 3\servicethread\servicethread\servicethread.cpp(26,3): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\st310-06\Desktop\ServiceThreads-main\Process 3\servicethread\servicethread\servicethread.cpp(48,2): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\st310-06\Desktop\ServiceThreads-main\Process 3\servicethread\servicethread\servicethread.cpp(56,20): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  C:\Users\st310-06\Desktop\ServiceThreads-main\Process 3\servicethread\servicethread\servicethread.cpp(56,20):
+  заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  C:\Users\st310-06\Desktop\ServiceThreads-main\Process 3\servicethread\servicethread\servicethread.cpp(56,20):
+  отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+  C:\Users\st310-06\Desktop\ServiceThreads-main\Process 3\servicethread\servicethread\servicethread.cpp(56,20):
+  этот аргумент используется в качестве размера буфера
+  
+  servicethread.vcxproj -> C:\Users\st310-06\Desktop\ServiceThreads-main\Process 3\servicethread\x64\Debug\servicethread.exe
